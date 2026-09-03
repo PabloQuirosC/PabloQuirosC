@@ -1,13 +1,23 @@
+<img width="515" height="460" alt="image" src="https://github.com/user-attachments/assets/f1b3516e-bc70-4ab5-94cc-1080c31977ea" />
 <div align="center">
 
-# 👋 Hola, soy Pablo Quirós Cortés
+<h1>👋 Hola, soy Pablo Quirós Cortés</h1>
 
-### Full-Stack Developer | Clean Architecture | FastAPI | React | TypeScript
+<h3>Full-Stack Developer | Clean Architecture | FastAPI | React | TypeScript</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%2B+TypeScript+Specialist;FastAPI+%26+Clean+Architecture;Building+Scalableainable+Systems
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3500&amp;pause=1000&amp;color=00D1FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Developer;React+%2B+pecialist;FastAPI+%26+Clean+Architecture;Building+Scalable+Systems
+
+<br/><br/>
 
 <p>
-Desarrollador Full-Stack especializado en crear aplicaciones escalables, APIs robustas y experiencias de usuario modernas mediante arquitecturas limpias, buenas prácticas de ingeniería y enfoque en calidad de software.
+  Desarrollador Full-Stack especializado en arquitecturas limpias, APIs robustas
+  y experiencias de usuario modernas.
+</p>
+
+<p>
+  Construyo soluciones escalables, seguras y mantenibles aplicando buenas
+  prácticas de ingeniería de software.
 </p>
 
 </div>
@@ -16,252 +26,223 @@ Desarrollador Full-Stack especializado en crear aplicaciones escalables, APIs ro
 
 ## 🚀 Sobre mí
 
-- 🧩 Especialista en **React + TypeScript**
+- 🧩 Especialista en **React, TypeScript y desarrollo frontend moderno**
 - ⚡ Desarrollo de APIs de alto rendimiento con **FastAPI**
-- 🏗️ Arquitecturas escalables basadas en **Clean Architecture**
-- 🔒 Enfoque en seguridad, mantenibilidad y buenas prácticas
-- 🐳 Experiencia en Docker, CI/CD y automatización
-- 🎯 Apasionado por la calidad de código y la experiencia del desarrollador (DX)
+- 🏗️ Implementación de **Clean Architecture** y **Repository Pattern**
+- 🔒 Seguridad, mantenibilidad y calidad desde el diseño
+- 🐳 Experiencia con **Docker, CI/CD y automatización**
+- 🎯 Enfoque en experiencia de usuario y experiencia de desarrollo
+- 🧪 Pruebas unitarias, de integración y end-to-end
+- 📈 Interés en rendimiento, observabilidad y mejora continua
 
 ---
 
-## 🧠 Stack Tecnológico
+## 🧠 Stack tecnológico
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,ts,vite,tailwind"
+    alt="React, TypeScript, Vite y Tailwind CSS"
+ tipados, hooks personalizados y Context API
+- **TanStack Query:** caching, invalidación, optimistic updates y prefetching
+- **React Hook Form + Zod:** formularios complejos y validación basada en esquemas
+- **Tailwind CSS:** interfaces adaptables, mantenibles y consistentes
+- **Radix UI / shadcn/ui:** componentes accesibles y sistemas de diseño
+- **React Router v6:** rutas anidadas, lazy loading y rutas protegidas
 
-<img src="https://skillicons.dev/icons?i=react,tsvite
+#### Experiencia
 
+- ✅ Componentes reutilizables y completamente tipados
+- ✅ Hooks personalizados
+- ✅ Gestión de estado local y remoto
+- ✅ Optimización con `useMemo` y `useCallback`
+- ✅ Caching e invalidación de consultas
+- ✅ Optimistic updates
+- ✅ Formularios complejos
+- ✅ Dark mode y theming
+- ✅ Lazy loading
+- ✅ Rutas protegidas
+- ✅ Diseño responsive
+- ✅ Accesibilidad web
+
+---
+
+### ⚙️ Backend y APIs
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi"
+    alt="Python y FastAPI"
+  />
 </p>
 
 #### Tecnologías
 
-- React 18 + TypeScript
-- TanStack Query (React Query)
-- React Hook Form + Zod
-- Tailwind CSS
-- Radix UI / shadcn-ui
-- React Router v6
+- **FastAPI**
+- **SQLAlchemy 2.0**
+- **Alembic**
+- **Pydantic v2**
+- **WebSockets**
+- **OpenAPI**
+- **JWT**
+- **OAuth2**
+- **RBAC**
 
 #### Experiencia
 
-✅ Componentes tipados
-
-✅ Hooks personalizados
-
-✅ Context API
-
-✅ Optimización con useMemo y useCallback
-
-✅ Caching avanzado
-
-✅ Optimistic Updates
-
-✅ Formularios complejos
-
-✅ Dark Mode
-
-✅ Lazy Loading
-
-✅ Protected Routes
+- ✅ Programación asíncrona con `async` y `await`
+- ✅ Dependency Injection
+- ✅ Arquitectura por capas
+- ✅ Documentación automática con OpenAPI
+- ✅ JWT access y refresh tokens
+- ✅ OAuth2
+- ✅ Control de acceso basado en roles y permisos
+- ✅ Rate limiting
+- ✅ Background tasks
+- ✅ Health checks
+- ✅ Structured logging
+- ✅ Métricas con Prometheus
+- ✅ Manejo centralizado de errores
 
 ---
 
-### ⚙️ Backend & APIs
+### 🗄️ Bases de datos y arquitectura
 
-<p>
-
-https://skillicons.dev/icons?i=python,fastapi
-
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql"
+    alt="PostgreSQL y MySQL"
+  />
 </p>
 
-#### Tecnologías
+#### Bases de datos
 
-- FastAPI
-- SQLAlchemy 2.0
-- Alembic
-- Pydantic v2
-- WebSockets
-- OpenAPI
-
-#### Experiencia
-
-✅ Async/Await
-
-✅ Dependency Injection
-
-✅ Arquitectura por capas
-
-✅ JWT Access/Refresh
-
-✅ OAuth2
-
-✅ RBAC
-
-✅ Rate Limiting
-
-✅ Health Checks
-
-✅ Structured Logging
-
-✅ Prometheus Metrics
-
----
-
-### 🗄️ Base de Datos & Arquitectura
-
-<p>
-
-https://skillicons.dev/icons?i=postgres,mysql
-
-</p>
-
-#### Base de Datos
-
-- PostgreSQL
-- MySQL
+- **PostgreSQL**
+- **MySQL**
 
 #### Arquitectura
 
-- Clean Architecture
-- Repository Pattern
-- Domain Driven Design Principles
-- Versioned Migrations
-- Database Optimization
+- **Clean Architecture**
+- **Repository Pattern**
+- **Domain-Driven Design Principles**
+- **Migraciones versionadas**
+- **Diseño y optimización de esquemas**
 
 #### Experiencia
 
-✅ Índices
-
-✅ Triggers
-
-✅ Constraints
-
-✅ Materialized Views
-
-✅ EXPLAIN ANALYZE
-
-✅ Particionado
-
-✅ Normalización
-
-✅ Seeds
+- ✅ Índices y constraints
+- ✅ Relaciones complejas
+- ✅ Triggers
+- ✅ Vistas materializadas
+- ✅ Particionado
+- ✅ Normalización
+- ✅ Denormalización estratégica
+- ✅ Migraciones con Alembic
+- ✅ Seeds
+- ✅ Transacciones explícitas
+- ✅ Optimización con `EXPLAIN ANALYZE`
 
 ---
 
-### 🚀 DevOps & Calidad
+### 🚀 DevOps y calidad
 
-<p>
-
-<img srcskillicons.dev/icons?i=docker,githubactions,git,vercel
-
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,git,vercel,linux
 </p>
 
 #### DevOps
 
-- Docker
-- Docker Compose
-- GitHub Actions
-- Vercel
+- **Docker**
+- **Docker Compose**
+- **GitHub Actions**
+- **Vercel**
+- **Linux**
+- **CI/CD**
 
-#### Calidad
+#### Calidad de código
 
-- ESLint
-- Prettier
-- Husky
-- Conventional Commits
-- Testing Strategy
+- **ESLint**
+- **Prettier**
+- **TypeScript Strict**
+- **Husky**
+- **Conventional Commits**
+- **Coverage Thresholds**
 
 #### Testing
 
-✅ Unit Testing (Vitest)
-
-✅ Integration Testing
-
-✅ Testcontainers
-
-✅ Playwright E2E
-
-✅ Coverage Enforcement
+- ✅ Unit testing con Vitest
+- ✅ Integration testing
+- ✅ Testcontainers
+- ✅ End-to-end testing con Playwright
+- ✅ Validación de cobertura
+- ✅ Automatización de pruebas en CI/CD
 
 ---
 
-## 🎯 Principios Profesionales
-
-<div align="center">
+## 🎯 Principios profesionales
 
 | Principio | Enfoque |
-|-----------|----------|
-| 🔐 Type Safety First | Reducir errores en tiempo de desarrollo |
-| 🚀 DX = UX | Mejor experiencia para desarrolladores y usuarios |
-| 🛡️ Seguridad por Defecto | Protección desde el diseño |
-| 🏗️ Mantenibilidad | Software preparado para evolucionar |
-
-</div>
+| :--- | :--- |
+| 🔐 **Type Safety First** | Reducir errores desde la etapa de desarrollo |
+| 🚀 **DX = UX** | Mejorar la experiencia de desarrolladores y usuarios |
+| 🛡️ **Seguridad por defecto** | Incorporar protección desde el diseño |
+| 🏗️ **Mantenibilidad** | Crear software preparado para evolucionar |
+| 🧪 **Calidad continua** | Validar cada cambio mediante pruebas y automatización |
+| 📈 **Escalabilidad** | Diseñar sistemas preparados para crecer |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  https://ghstats.dev/api/card?username=PabloQuirosC&amp;theme=ocean&amp;hide_border=true&amp;hide_title=true&amp;border_radius=7.5
+</p>
 
-<img
-src="https://ghstats.dev/api/card?username=PabloQuirosC&theme=ocean&hide_border=true&hide_title=true&border_radius=7.5"
-alt="GitHub Stats"
-/>
-
-<br/><br/>
-
-https://github-readme-streak-stats.herokuapp.com/?user=PabloQuirosC&theme=tokyonight&hide_border=true
-
-</div>
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=PabloQuirosC&amp;theme=tokyonight&amp;hide_border=true
+</p>
 
 ---
 
 ## 🛠️ Tecnologías
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,postgres,mysql,docker,git,githubactionsvite,linux,vercel
-
-</div>
+<p align="center">
+  https://skillicons.dev/icons?i=react,ts,js,python,fastapi,postgres,mysql,docker,git,githubactions,vite,tailwind,linux,vercel
+</p>
 
 ---
 
 ## 🌎 Conectemos
 
-<div align="center">
-
-https://www.linkedin.com/in/pablo-andres-quiros-cortes-5a5b53238
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor>
-
-<a href="mailto:pablo.quiros@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335-the-badge&logo=gmail&logoColor=white
-</a>
-
-<a href="https://github.com/PabloQuirosC">
-/img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-andres-quiros-cortes-5a5b53238">
+    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white
+  </a>
+  <a href="mailto:pablo.quiros@gmail.com">
+    https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white
+  </a>
+  <a href="https://github.com/PabloQuirosC">
+    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 💼 Disponible para oportunidades
+<h3>💼 Disponible para oportunidades</h3>
 
-**Full-Time · Freelance · Consultoría Técnica**
+<p>
+  <strong>Full-Time · Freelance · Consultoría Técnica</strong>
+</p>
 
-<img src="https://komarev.com/ghpvc=PabloQuirosC&style=for-the-badge&color=0e75b6
+https://komarev.com/ghpvc/?username=PabloQuirosC&amp;style=for-the-badge&amp;color=0e75b6&amp;label=VISITAS+AL+PERFIL
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### ⚡ Construyendo software escalable, mantenible y preparado para producción.
+<h3>⚡ Construyendo software escalable, mantenible y preparado para producción</h3>
 
 </div>
